@@ -1,0 +1,7 @@
+name: BreezeSiteLink
+main: me.Andrew.BreezeSiteLink.Main
+version: 1
+author: MrBestGamers
+commands:
+  register:
+  testPoster:
