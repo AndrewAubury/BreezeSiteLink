@@ -1,6 +1,6 @@
 API:
   LINK: "https://breezemc.com/api.php"
-  KEY: "123456890"
+  KEY: "1213456890"
 Messages:
   prefix: "&7[&bSiteLink&7]&f "
   userAlreadyMade: "&cSorry but a user already exists with your name"
